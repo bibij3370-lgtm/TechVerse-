@@ -1,0 +1,1190 @@
+# **Complete master prompt for your TechVerse PWA**
+
+Your reference image shows a modern, premium electronics e-commerce storefront. The design is suitable for a Progressive Web App (PWA) focused on tech gadgets, laptop accessories, smart devices, audio products, and wearables.
+
+The goal should be to build more than a static landing page: a complete, responsive, installable e-commerce application with a polished shopping experience.
+
+## **1. UI analysis of your reference**
+
+[boAt website redesigned by Muzammil  on Dribbble](https://images.openai.com/static-rsc-4/cXFIYv13_a6-23KHdidO_7q6FnuuH3v0ohHs2ZC5Fqsea4EedTILGdr8qYjqAvDAGVkVi_Wx_IX2O543p6mrrMKmGSCgw5E-ln48xulPhqpf8FGrjIBztw542_sdJQeL-Cpx0sPOkjtv5-cFd9j2uxbWSw8LgO-H7Q3QPmIDZbM?purpose=inline)
+
+[dribbble.com](https://dribbble.com/shots/20596200-boAt-website-redesigned?utm_source=chatgpt.com)
+
+### **Overall design language**
+
+| Element              | Design characteristics                  |
+| -------------------- | --------------------------------------- |
+| Brand                | TechVerse                               |
+| Design style         | Modern, minimalist, premium tech retail |
+| Primary background   | White / light gray                      |
+| Primary accent       | Bold red                                |
+| Typography           | Clean sans-serif, bold headings         |
+| Cards                | Rounded corners, subtle shadows         |
+| Layout               | Spacious grid-based layout              |
+| Navigation           | Multi-level horizontal navigation       |
+| Product presentation | Large product photography               |
+| Overall feeling      | Premium, trustworthy, clean             |
+
+### **Homepage structure**
+
+Your screenshot contains these sections, in this order:
+
+[When & How to Use Headers in UIs  | Uxcel Lesson](https://images.openai.com/static-rsc-4/mLgHz-TeuNQdec5z46rfd-OlblvEtlMkrtMjoDfz5mUBA1zgeZVTkg-IPsfY7We7BvqtSygIzWKUnwuXbynjaDedCPJ0N2g5Tj3BBzea2R53ukPXmtzASJ4MWNWFWaGRoFPXjYZeiEudMiHh_rbTYqJw4x8i8IyFkonu88T5qhU?purpose=inline)
+
+**01. Header and navigation**
+
+Brand logo, search bar, Home, Today, Following, Shop, account and category navigation.
+
+[Top Fashion Deals Today: Exclusive Men&#039;s And Women&#039;s Brand Discounts - NDTV Shopping](https://images.openai.com/static-rsc-4/TkCsHlJe5LBH3u9IsoCusre6P2ZdmSnolvkFfARBgZrKKm1gEQ8VbFC6IAcH2SI_t-rbnnJI5My4aopSlsB5YZ6WZVurLB5OwaK7qKqLMD6nfqwI_9aM3DsUeKrxgbluoXt3qIzIh5DqTUI-QJBh7hhDZdNd4QJ8u5rVXi33mrg?purpose=inline)
+
+**02. Main hero banner**
+
+Large headline, promotional message, product showcase, CTA buttons and delivery locations.
+
+[Modern Electronics Store Website Template | Wix Studio :: Behance](https://images.openai.com/static-rsc-4/T_XnbW2_wnn0W53AnmwEyzc2-aBmTe0U16-F51G93glvqzJSSnyDywFGgYjfBvXynetAQgKeANlJlmJ_PjjlRuRL3ljCmEaqrXl3fCPIFdXrmiZY5EFGMzyBy71gLFtbSVnZ_XAIQils1cdP6_pjxK7FT5OIOfpg7zPZe_KH5LQ?purpose=inline)
+
+**03. Category shortcuts**
+
+Audio, Smart Devices, Wearables, Accessories and Deals.
+
+[Electronic Devices Landing Page :: Behance](https://images.openai.com/static-rsc-4/VptlYlE-eCeNdYLWzMvumSsb_NqtLkd1OYt50yQkpp6UxdD0QAT0QLwc_xZRhMW46GFYbwlYJcIPXwLRXRcm0rMDhtDgZTtfQkPoT0_QDC_EG4g3gzcSB7x1h7gkJcIM50mUCkmxAAjBgk4V7ao-p8bh9s7IBqe3ChSgJ7b5leA?purpose=inline)
+
+**04. Trending products**
+
+Product images, names, prices, ratings, wishlist and product interactions.
+
+[Your Shopping Basket on Inerra Online](https://images.openai.com/static-rsc-4/3uL_CTzjjyv8FKfxb5GdyIJL98aMCXFRRRE6X-9IynYSkvRVpCvDYV3iUeg0fhDNCJFeZ9iTLaXl7_WZXHE3ekY2sNu4i0kaJD_xHmCdUhqkPCuutXVRPLaTtHkqVo0nvA1R0T-OK3YI2xLBvNtH0nE072exwmrw4oMT3WAg2NI?purpose=inline)
+
+**05. Trust and service benefits**
+
+Worldwide shipping, secure payments, 30-day returns and premium support.
+
+[Our favourite tech of 2025 that's still worth buying in 2026 | Creative Bloq](https://images.openai.com/static-rsc-4/NV2KPAAPj-RhZsyrypgOaRVCR-Pt4GH0PAWEKjbjXIsAEpsVdelgED6oMCd5OThrFwUthSglGnaJN88aJcEWoppLY9012-q0Zrn1HS2UE5bOqpxBo8ro21O-Dws4o-VqUKI935Z9LAF7znknKQRtGc_U6qaHhh8eAbvrbqBseiE?purpose=inline)
+
+**06. Ideas for your next upgrade**
+
+Editorial cards for tech setups, travel essentials, smart homes, gaming and desk setups.
+
+[Argos | Order online today for fast home delivery](https://images.openai.com/static-rsc-4/0OIU-j4Pydaeme4CrLRpz3JsWvQnR4JkG8jUZkNG4PKNdsDz986KsLWeSfzquiAi9GmP3BOEo-w_O7cG5_GR0dsG7MEVOP3n2EELD1JwEc-xJVORf8JZDwPMi1SgW0gwtWWkEKIE5Fj-WhyBpIdp8k9GE43kOVLzDB3krcHooQc?purpose=inline)
+
+**07. Deals and newsletter**
+
+Promotional banner, subscription form and special offers.
+
+[How to Design an Ecommerce Website That Converts | 2026 Guide | Sparq](https://images.openai.com/static-rsc-4/MsmbPhqWN_qBGbvMVBl05j9uSzdH8294mB-XoU1ZHOni0_84NE3fm1jWsGWaIZ4kFS4ppjR9vdVxKh2ri48Odrf73xwak4TFYwaKKnXSt-0E25z0yEVyuViZzMUfbq9hew2f9zJkCp_ipXoYMa5dxMFl6Wr60PdRuzEjuEqyKcQ?purpose=inline)
+
+**08. Footer**
+
+Authenticity guarantees, trusted store indicators, price matching and social links.
+
+## **2. Recommended application architecture**
+
+I recommend treating TechVerse as a complete multi-page shopping application rather than a single landing page.
+
+**Core pages:**
+
+- Home
+- Shop / All Products
+- Category listing
+- Product details
+- Search results
+- Wishlist
+- Shopping cart
+- Checkout
+- User account
+- Order history
+- Deals and promotions
+- Blog / Tech inspiration
+
+**PWA capabilities:**
+
+- Installable on Android, iOS-supported browsers and desktop.
+- Web app manifest with application icons.
+- Service worker and offline caching.
+- Offline fallback screen.
+- Cached browsing of previously visited content where appropriate.
+- App-like mobile navigation.
+- Fast loading and responsive layouts.
+- Update notifications when a new app version is available.
+
+## **3. Complete master prompt**
+
+The following prompt is designed for AI coding agents such as Cursor, Claude Code, Windsurf, Replit Agent, Lovable or other full-stack development tools.
+
+It instructs the agent to analyze your screenshot, establish the architecture, implement the complete UI, and build functional shopping and PWA features.
+
+# MASTER DEVELOPMENT PROMPT — TECHVERSE PWA
+
+## ROLE
+
+Act as a senior full-stack developer, UI/UX designer, e-commerce architect, and Progressive Web App (PWA) specialist.
+
+Your task is to design and develop a complete, production-quality electronics e-commerce Progressive Web Application named **TechVerse**.
+
+Use the uploaded TechVerse homepage screenshot as the primary visual design reference.
+
+Do not simply create a static HTML landing page. Build a complete, functional, responsive, installable shopping application with reusable components, structured product data, working interactions, and scalable architecture.
+
+---
+
+# 1. PROJECT VISION
+
+Brand Name: TechVerse
+
+Tagline: Discover. Shop. Upgrade.
+
+Business Type: Online technology and electronics marketplace.
+
+Products:
+
+- Laptop accessories
+- Headphones and earbuds
+- Smartwatches
+- Smartphones
+- Bluetooth speakers
+- Smart home devices
+- Gaming accessories
+- Computer accessories
+- Drones
+- Charging accessories
+- Mobile accessories
+- Productivity gadgets
+
+The application should communicate:
+
+- Innovation
+- Premium quality
+- Trust
+- Convenience
+- Modern technology
+- Excellent shopping experience
+
+The visual design must closely follow the uploaded reference screenshot while improving usability, responsiveness, accessibility, and functionality.
+
+Do not copy the screenshot as a flat image. Recreate every section using real reusable frontend components.
+
+# 2. TECHNOLOGY STACK
+
+Use the following stack:
+
+Frontend:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React icons
+- React Router
+- Zustand for global shopping state
+
+PWA:
+
+- Vite PWA plugin
+- Web App Manifest
+- Service Worker
+- Workbox caching strategies
+- Install prompt support
+- Offline fallback
+
+Backend architecture:
+
+- Supabase-ready authentication and database integration.
+- Create a clean API/service layer.
+- Use realistic local mock data when backend credentials are unavailable.
+- Never pretend a payment, order, or backend operation succeeded when it has not.
+
+Forms and validation:
+
+- React Hook Form
+- Zod
+
+Use a modular, maintainable folder structure.
+
+If the project already has an established stack, inspect it first and adapt rather than unnecessarily replacing it.
+
+# 3. DESIGN SYSTEM
+
+Create a consistent premium technology retail design system.
+
+COLOR PALETTE:
+
+Primary red: #C8101E\
+Dark red: #A80D18\
+Black: #151515\
+Dark gray: #333333\
+Secondary gray: #777777\
+Light gray: #F5F5F5\
+White: #FFFFFF\
+Border: #EAEAEA\
+Success: #218838
+
+TYPOGRAPHY:
+
+- Use Inter or a similar modern sans-serif.
+- Bold headings.
+- Clean readable body text.
+- Strong hierarchy.
+- Consistent font sizing.
+
+DESIGN CHARACTERISTICS:
+
+- White and light-gray surfaces.
+- Red promotional accents.
+- Rounded cards.
+- Subtle shadows.
+- Clean product photography.
+- Generous whitespace.
+- Consistent spacing.
+- Smooth hover transitions.
+- Minimalist icons.
+- Premium e-commerce appearance.
+
+Avoid:
+
+- Excessive gradients.
+- Unnecessary animations.
+- Overcrowded layouts.
+- Huge unnecessary whitespace.
+- Excessive borders.
+- Generic template appearance.
+- Randomly changing the reference design.
+
+Create reusable design tokens for colors, typography, shadows, spacing, and border radius.
+
+# 4. GLOBAL HEADER
+
+Create a two-level desktop navigation.
+
+TOP HEADER:
+
+Left:
+
+- TechVerse logo.
+- Tagline: Discover. Shop. Upgrade.
+
+Center:
+
+- Large search bar.
+- Placeholder: Search for tech gadgets, ideas and more.
+- Search icon.
+- Live search suggestions.
+
+Right:
+
+- Home
+- Today
+- Following
+- Shop
+- User account icon
+- Wishlist icon with item counter
+- Shopping cart icon with item counter.
+
+SECONDARY NAVIGATION:
+
+- Gadgets
+- Smart Home
+- Audio
+- Wearables
+- Accessories
+- Sale
+
+Right side:
+
+- Country selector.
+- Currency selector.
+- Favorites shortcut.
+
+INTERACTIONS:
+
+- Sticky header when scrolling.
+- Search suggestions.
+- Search submission.
+- Dropdown navigation.
+- Responsive mobile menu.
+- Working account, wishlist and cart navigation.
+- Visible active navigation state.
+
+# 5. HOMEPAGE HERO SECTION
+
+Recreate the reference's large promotional hero banner.
+
+Layout:
+
+- Two-column desktop design.
+- Text content on the left.
+- Large product composition on the right.
+- White and red background treatment.
+- Rounded outer container.
+
+Content:
+
+Eyebrow:\
+DISCOVER. SHOP. UPGRADE.
+
+Headline:\
+Latest Tech Gadgets
+
+Highlight the word "Gadgets" in red.
+
+Description:\
+Explore cutting-edge gadgets that upgrade your lifestyle.
+
+Buttons:
+
+- Shop Now
+- Browse Collection
+
+Right-side product imagery:
+
+- Premium headphones.
+- Modern smartphone.
+- Smartwatch.
+- Wireless earbuds.
+
+Include:
+
+- New Arrivals badge.
+- Hero carousel controls.
+- Promotional slides.
+- Country and shipping information.
+- Responsive image scaling.
+
+Hero buttons must navigate to their intended pages.
+
+# 6. PRODUCT CATEGORY SHORTCUTS
+
+Build five horizontally arranged category cards:
+
+1. Audio\
+   Subtitle: Premium Sound
+2. Smart Devices\
+   Subtitle: Smarter Living
+3. Wearables\
+   Subtitle: Track. Achieve.
+4. Accessories\
+   Subtitle: Designed for You
+5. Deals\
+   Subtitle: Top Deals Today
+
+Each card must contain:
+
+- Category image or icon.
+- Category title.
+- Short description.
+- Red circular arrow button.
+- Hover interaction.
+
+Clicking a card must navigate to the correct category listing.
+
+# 7. TRENDING PRODUCTS
+
+Section heading:\
+Trending Products
+
+Include:
+
+- View All link.
+- Responsive product grid.
+- Six products per row on large desktop screens where space allows.
+- Four products on smaller desktops.
+- Two products on mobile.
+
+Each product card must display:
+
+- Product image.
+- Product name.
+- Short description.
+- Current price.
+- Original price when discounted.
+- Discount badge.
+- Rating.
+- Review count.
+- Wishlist button.
+- Quick-view button.
+- Add-to-cart button.
+
+Sample products:
+
+1. Smart Watch Series 9 — $299.99
+2. Wireless Earbuds Pro — $129.99
+3. Portable Bluetooth Speaker — $59.99
+4. 3-in-1 Wireless Charger — $49.99
+5. 4K Camera Drone — $499.99
+6. Smartphone Gimbal — $89.99
+
+Prices are demonstration data. Make currency configurable through application settings.
+
+PRODUCT CARD BEHAVIOR:
+
+- Clicking product image or title opens product details.
+- Wishlist button adds/removes favorites.
+- Add to Cart updates cart state.
+- Quick View opens a modal.
+- Show loading states where applicable.
+- Show confirmation feedback after successful local cart actions.
+- Display unavailable stock appropriately.
+
+# 8. TRUST AND SERVICE BENEFITS
+
+Create a horizontal benefit strip with four items:
+
+1. Worldwide Shipping\
+   Fast delivery to supported destinations.
+2. Secure Payments\
+   Secure checkout and payment processing.
+3. 30-Day Returns\
+   Hassle-free returns, subject to store policy.
+4. Premium Support\
+   Customer support availability.
+
+Use red line icons and short descriptions.
+
+On mobile, transform this into a compact two-column layout or swipeable row.
+
+# 9. TECHNOLOGY INSPIRATION SECTION
+
+Section heading:\
+Ideas for Your Next Upgrade
+
+Create five image-based editorial cards.
+
+Categories:
+
+1. Tech Setup Ideas\
+   128 Ideas
+2. Travel Tech Essentials\
+   96 Ideas
+3. Smart Home Inspiration\
+   74 Ideas
+4. Gaming Gear\
+   155 Ideas
+5. Minimal Desk Setup\
+   87 Ideas
+
+Each card should contain:
+
+- Large lifestyle image.
+- Dark gradient overlay for readable text.
+- Title.
+- Number of ideas.
+- Circular navigation arrow.
+
+Clicking a card opens the relevant inspiration collection.
+
+# 10. PROMOTIONAL AND NEWSLETTER SECTION
+
+Create a two-column promotional area.
+
+LEFT: EXCLUSIVE DEALS
+
+Use a bold red promotional banner.
+
+Content:\
+Exclusive Deals for You!
+
+Save more on top-rated gadgets handpicked just for you.
+
+Button:\
+Shop Deals
+
+Include a gift icon and attractive promotional artwork.
+
+RIGHT: NEWSLETTER
+
+Heading:\
+Get the Latest Tech & Deals
+
+Description:\
+Join our newsletter and never miss an update.
+
+Include:
+
+- Email input.
+- Subscribe button.
+- Newsletter illustration.
+
+Functional requirements:
+
+- Validate email addresses.
+- Show success and error states.
+- Prevent duplicate submissions.
+- Add backend integration support.
+- Never display false subscription confirmation without a successful submission.
+
+# 11. FOOTER
+
+Create a premium multi-column footer.
+
+TRUST INDICATORS:
+
+- 100% Authentic
+- Trusted by Thousands
+- Top Rated Store
+- Price Match Guarantee
+
+FOOTER NAVIGATION:
+
+Shop:
+
+- All Products
+- New Arrivals
+- Best Sellers
+- Special Offers
+
+Customer Service:
+
+- Contact Us
+- Shipping Information
+- Returns
+- FAQs
+
+Company:
+
+- About TechVerse
+- Our Story
+- Privacy Policy
+- Terms and Conditions
+
+Connect:
+
+- Facebook
+- Instagram
+- X
+- YouTube
+- TikTok
+
+Include:
+
+- Copyright information.
+- Payment method icons where supported.
+- Country and currency selection.
+
+# 12. COMPLETE APPLICATION PAGES
+
+Build the following routes.
+
+HOME:\
+/
+
+SHOP:\
+/shop
+
+CATEGORY:\
+/category/:slug
+
+PRODUCT DETAILS:\
+/product/:slug
+
+SEARCH:\
+/search?q=
+
+NEW ARRIVALS:\
+/new-arrivals
+
+DEALS:\
+/deals
+
+INSPIRATION:\
+/ideas
+
+WISHLIST:\
+/wishlist
+
+CART:\
+/cart
+
+CHECKOUT:\
+/checkout
+
+ACCOUNT:\
+/account
+
+LOGIN:\
+/login
+
+REGISTER:\
+/register
+
+ORDERS:\
+/account/orders
+
+ORDER DETAILS:\
+/account/orders/:id
+
+CONTACT:\
+/contact
+
+ABOUT:\
+/about
+
+FAQ:\
+/faq
+
+POLICIES:\
+/policies
+
+Create appropriate loading, empty, error, and not-found states.
+
+# 13. SHOPPING FUNCTIONALITY
+
+Implement a functional shopping cart.
+
+Required features:
+
+- Add products to cart.
+- Remove products.
+- Change quantities.
+- Calculate subtotal.
+- Calculate discounts.
+- Calculate shipping.
+- Calculate final total.
+- Apply coupon codes.
+- Check product availability.
+- Persist cart between sessions.
+- Display cart item count globally.
+
+Create a reusable shopping cart drawer.
+
+WISHLIST:
+
+- Add/remove favorites.
+- Persist favorites.
+- Wishlist item counter.
+- Move items from wishlist to cart.
+
+PRODUCT FILTERS:
+
+- Category.
+- Brand.
+- Price range.
+- Rating.
+- Availability.
+- Discount.
+
+SORTING:
+
+- Popularity.
+- Price low to high.
+- Price high to low.
+- Newest.
+- Highest rated.
+
+Add pagination or accessible load-more functionality.
+
+# 14. PRODUCT DETAILS PAGE
+
+Create a premium product detail layout.
+
+Left:
+
+- Main product image.
+- Thumbnail gallery.
+- Image zoom.
+- Additional product images.
+
+Right:
+
+- Product name.
+- Brand.
+- Rating and reviews.
+- Price.
+- Discount.
+- Availability.
+- Product description.
+- Color selection.
+- Product variants.
+- Quantity selector.
+- Add to Cart.
+- Buy Now.
+- Wishlist.
+
+Below:
+
+- Product specifications.
+- Product description.
+- Customer reviews.
+- Related products.
+- Recently viewed products.
+
+Make all product information data-driven.
+
+# 15. CHECKOUT EXPERIENCE
+
+Create a clean multi-step checkout:
+
+STEP 1: Contact information.
+
+STEP 2: Shipping address.
+
+STEP 3: Delivery method.
+
+STEP 4: Payment method.
+
+STEP 5: Order review.
+
+STEP 6: Order confirmation.
+
+Include:
+
+- Order summary.
+- Tax and shipping calculations.
+- Coupon validation.
+- Form validation.
+- Clear error messages.
+- Responsive checkout layout.
+
+Payment integration must use a supported payment provider and secure server-side processing when configured.
+
+Do not collect or store raw card details in the frontend.
+
+If payment credentials are unavailable, provide a clearly labeled demo checkout rather than pretending to process real payments.
+
+# 16. USER AUTHENTICATION
+
+Implement an authentication-ready architecture.
+
+Features:
+
+- Register.
+- Login.
+- Logout.
+- Password reset.
+- User profile.
+- Saved addresses.
+- Order history.
+- Wishlist synchronization.
+
+Use Supabase Auth when configured.
+
+Support guest shopping and guest checkout where permitted.
+
+Protect private routes appropriately.
+
+# 17. PWA REQUIREMENTS
+
+This is a critical part of the project.
+
+Make TechVerse a genuine Progressive Web Application.
+
+WEB APP MANIFEST:
+
+- name: TechVerse
+- short_name: TechVerse
+- display: standalone
+- theme_color: #C8101E
+- background_color: #FFFFFF
+- start_url: /
+- appropriate application icons.
+- maskable icons.
+- screenshots where supported.
+
+SERVICE WORKER:
+
+Implement:
+
+- Application shell caching.
+- Static asset caching.
+- Font caching.
+- Appropriate image caching.
+- Network-first strategies for dynamic content.
+- Offline fallback.
+- Cache version management.
+- Safe cache cleanup.
+
+OFFLINE EXPERIENCE:
+
+Display a polished offline page with:
+
+- TechVerse branding.
+- Offline status indicator.
+- Friendly message.
+- Retry button.
+- Previously cached content where available.
+
+INSTALLATION:
+
+- Detect supported installation conditions.
+- Display an Install App button when appropriate.
+- Support beforeinstallprompt where supported.
+- Explain installation for iOS browsers where needed.
+- Handle successful installation.
+- Avoid repeatedly displaying installation prompts.
+
+APP EXPERIENCE:
+
+- Standalone application appearance.
+- Mobile-friendly navigation.
+- Safe-area support.
+- Touch-friendly controls.
+- No horizontal overflow.
+- Smooth page transitions.
+- Fast initial rendering.
+
+Do not cache private account information or sensitive checkout data in publicly accessible caches.
+
+# 18. RESPONSIVE DESIGN
+
+Support:
+
+- Large desktop: 1440px and above.
+- Desktop: 1024px–1439px.
+- Tablet: 768px–1023px.
+- Mobile: 320px–767px.
+
+DESKTOP:
+
+- Full two-level navigation.
+- Wide hero banner.
+- Multi-column product grids.
+- Horizontal category cards.
+
+TABLET:
+
+- Compact navigation.
+- Two-column hero where appropriate.
+- Reduced product grid columns.
+
+MOBILE:
+
+- Compact header.
+- Logo and search access.
+- Mobile hamburger navigation.
+- Bottom navigation for Home, Shop, Wishlist, Cart and Account.
+- Single-column or swipeable hero.
+- Two-column product grid.
+- Full-width product cards where appropriate.
+- Mobile-friendly checkout.
+- Touch targets of at least 44px.
+
+The mobile experience should feel like a native shopping app, not merely a desktop website squeezed into a phone.
+
+# 19. COMPONENT ARCHITECTURE
+
+Create reusable components.
+
+GLOBAL:
+
+- Header
+- SecondaryNavigation
+- MobileNavigation
+- Footer
+- Breadcrumbs
+- SearchBar
+- NotificationToast
+- LoadingSpinner
+- EmptyState
+- ErrorState
+- InstallAppPrompt
+
+HOMEPAGE:
+
+- HeroBanner
+- CategoryShortcuts
+- TrendingProducts
+- ProductCard
+- TrustBenefits
+- InspirationSection
+- DealsBanner
+- NewsletterSection
+
+SHOPPING:
+
+- ProductGrid
+- ProductFilters
+- ProductSort
+- ProductQuickView
+- ProductGallery
+- ProductDetails
+- WishlistButton
+- AddToCartButton
+- CartDrawer
+- CartItem
+- CartSummary
+- CheckoutSteps
+
+Use clean separation between UI components, business logic, state management, API services, and data models.
+
+# 20. DATA STRUCTURE
+
+Create structured product data.
+
+Every product should support:
+
+- id
+- slug
+- name
+- brand
+- category
+- description
+- price
+- originalPrice
+- currency
+- images
+- rating
+- reviewCount
+- stock
+- sku
+- specifications
+- variants
+- featured
+- trending
+- newArrival
+- discountPercentage
+
+Create sample categories, brands, customers, reviews, orders and promotional campaigns.
+
+Do not hardcode individual product information throughout UI components.
+
+Use centralized data or database services.
+
+# 21. PERFORMANCE AND SEO
+
+Optimize for:
+
+- Core Web Vitals.
+- Lazy-loaded images.
+- Responsive images.
+- Code splitting.
+- Route-level lazy loading.
+- Optimized asset sizes.
+- Minimal JavaScript.
+- Efficient React rendering.
+- Accessible image alt text.
+
+SEO:
+
+- Page titles.
+- Meta descriptions.
+- Open Graph tags.
+- Canonical URLs.
+- Product structured data.
+- Breadcrumb structured data.
+- Sitemap.
+- Robots.txt.
+
+Accessibility:
+
+- Semantic HTML.
+- Keyboard navigation.
+- Visible focus indicators.
+- ARIA labels when needed.
+- Accessible forms.
+- Sufficient color contrast.
+- Screen reader compatibility.
+
+# 22. SECURITY AND RELIABILITY
+
+- Validate user inputs.
+- Sanitize untrusted content.
+- Never expose backend secrets.
+- Use environment variables.
+- Enforce authorization on protected backend operations.
+- Use secure authentication practices.
+- Validate prices and totals server-side.
+- Protect checkout and order operations.
+- Avoid storing sensitive personal data unnecessarily.
+- Handle network failures.
+- Provide clear error feedback.
+
+# 23. PROJECT FOLDER STRUCTURE
+
+Organize the project logically:
+
+src/\
+assets/\
+components/\
+common/\
+layout/\
+home/\
+products/\
+cart/\
+checkout/\
+pages/\
+hooks/\
+store/\
+services/\
+data/\
+types/\
+utils/\
+config/\
+styles/
+
+public/\
+icons/\
+images/\
+manifest.webmanifest/
+
+Include:
+
+- Environment variable example.
+- README.
+- Setup instructions.
+- PWA installation instructions.
+- Build instructions.
+
+# 24. QUALITY ASSURANCE
+
+Test the following:
+
+- All navigation links.
+- Product category navigation.
+- Search functionality.
+- Product filters.
+- Product sorting.
+- Product details.
+- Wishlist operations.
+- Cart operations.
+- Cart persistence.
+- Checkout validation.
+- Authentication flows.
+- Newsletter validation.
+- Responsive behavior.
+- Offline fallback.
+- Service worker registration.
+- PWA manifest.
+- Installability.
+- Production build.
+
+Fix all console errors, broken imports, missing images, layout issues and nonfunctional buttons.
+
+# 25. DEVELOPMENT EXECUTION PLAN
+
+Follow this sequence:
+
+PHASE 1:\
+Inspect the reference screenshot and existing project structure. Establish the design system and application architecture.
+
+PHASE 2:\
+Implement global styles, header, navigation, footer and homepage sections.
+
+PHASE 3:\
+Build reusable product components and structured product data.
+
+PHASE 4:\
+Implement shop, category, search and product detail pages.
+
+PHASE 5:\
+Implement cart, wishlist and shopping state management.
+
+PHASE 6:\
+Implement account, authentication and checkout architecture.
+
+PHASE 7:\
+Implement PWA manifest, service worker, offline support and installation experience.
+
+PHASE 8:\
+Implement responsive layouts, accessibility and performance optimizations.
+
+PHASE 9:\
+Run tests, inspect every page, fix errors and verify production build.
+
+# 26. FINAL DESIGN AND DEVELOPMENT INSTRUCTIONS
+
+The uploaded screenshot is the primary visual reference.
+
+Preserve its key visual identity:
+
+- White background.
+- Red promotional accents.
+- Premium product imagery.
+- Clean navigation.
+- Large product-focused hero.
+- Compact category shortcuts.
+- Product cards with consistent image sizing.
+- Trust indicators.
+- Editorial inspiration cards.
+- Promotional deals and newsletter.
+- Minimalist footer.
+
+However, improve the original experience with:
+
+- Better responsive behavior.
+- More polished typography.
+- Consistent spacing.
+- Real product interactions.
+- Accessible navigation.
+- Functional shopping workflows.
+- Native-like mobile experience.
+
+IMPORTANT:
+
+1. Build actual working functionality, not just decorative UI.
+2. Do not leave buttons without actions.
+3. Do not use generic placeholder blocks where product photography is required.
+4. Do not duplicate components unnecessarily.
+5. Do not put the entire application inside one component.
+6. Use reusable, typed components.
+7. Keep code readable and maintainable.
+8. Verify every route.
+9. Ensure PWA functionality works in a production build over HTTPS or localhost.
+10. If backend credentials are unavailable, clearly separate demo functionality from production integrations.
+
+## FINAL DELIVERABLE
+
+Deliver a complete TechVerse Progressive Web Application with:
+
+- Premium responsive e-commerce interface.
+- All major shopping pages.
+- Functional product catalog.
+- Cart and wishlist.
+- Search and filtering.
+- Product details.
+- Checkout workflow.
+- Authentication-ready backend architecture.
+- PWA installation.
+- Offline support.
+- SEO and accessibility.
+- Clean reusable code.
+- Documentation and setup instructions.
+
+Start by inspecting the existing project and reference screenshot. Then implement the complete application systematically. Do not stop after creating the homepage.
+
+## **4. My additional recommendations**
+
+To make TechVerse stand out, I recommend adding these features beyond the original screenshot:
+
+[E-commerce Shopping Mobile App UI Design by Jahid hasan 🔥 on Dribbble](https://images.openai.com/static-rsc-4/zquQJBzt3dlTscGqDLTiH1lTQomAfsvOdGc9Hk4McUSkD1xDi1nPH6RCNes8GdxNXhdMiflSAyzAzgf8RGxIcrxijeHEyPSr917QErqyxsxYgkLFecc7ENeAfHKNMkFI-Q2MP758axfrbfqWkq8ub6tagn8H7tzHbfn5c0Ipyno?purpose=inline)
+
+**Quick Product Preview**
+
+Customers can inspect product specifications and add items to their cart without leaving the homepage.
+
+[Add To Cart - Sidebar by Axel Bouaziz on Dribbble](https://images.openai.com/static-rsc-4/gVPDHIQsf04EggsWKLG3jUqe_95xMGpqnWDaDBF2IGEcyUH6aBTbNC8F3II-74QEnKbeNhSwar1VxTtkD-7D8QtnuCQiPQM_odnxLYoeYR_pzeSlt5ZFU5z3-JykFkJqDPq9hEHZzl-nkGAdpguIoR6fokCvON_sZSW92LsLYzs?purpose=inline)
+
+**Smart Cart Drawer**
+
+A slide-out shopping cart with quantity controls, subtotal and checkout.
+
+[iOS 26 Liquid Glass Buttons :: Behance](https://images.openai.com/static-rsc-4/puxXNTABGVPhVrySH_NlHDIFThHLFG0bpkjFe-OSpqUrsu1BQlTQzFtsF5cbfrL7LpoQEdyw6Pna_52rEfN_uzghEktCkDVjUH4c1Mgt2Ywq7khW_b3MIDkaJpDcTtnqj3KE-WMJrKucNqy39z5jD3Q3YxAvlPP9fdQJOvazQK8?purpose=inline)
+
+**Native-Like Mobile Experience**
+
+Bottom navigation, app installation, touch interactions and offline support.
+
+[Apearenz — Strategic Digital Design & High-Performance Websites](https://images.openai.com/static-rsc-4/JhCXBhADlm8R6UUkxWaNyHl2xVyLu1ryCXwNapO8ab-IR2pEeyXxzDnxUmVjciYguaM3C8MT8w2q08iEDRTxu2JZrMnK8W0eA9vWrD3pJMuHeIu6BXD9Y37tNhWK6rQdK9ZCRe6a1CFY3UDfbZpaBmTXj3LQHB1zD57wbw2c3KE?purpose=inline)
+
+**Dark Mode**
+
+Optional dark theme for a premium technology-focused experience.
+
+## **5. Recommended development order**
+
+My recommendation is to build in this order:
+
+| Priority | Development milestone                |
+| -------- | ------------------------------------ |
+| 1        | Pixel-accurate homepage design       |
+| 2        | Responsive mobile and tablet layouts |
+| 3        | Product catalog and product details  |
+| 4        | Search, filtering and sorting        |
+| 5        | Cart and wishlist                    |
+| 6        | Authentication and checkout          |
+| 7        | Backend and database                 |
+| 8        | PWA and offline functionality        |
+| 9        | Testing and deployment               |
+
+**One important point:** Get the visual design right first. Then build the shopping functionality and backend. This prevents an AI coding agent from producing a functional application that looks nothing like your reference.
+
+**My recommended stack:** React + TypeScript + Vite + Tailwind CSS + Supabase + Zustand + Vite PWA.
+
+This gives you a strong foundation for growing TechVerse into a complete technology shopping platform.
